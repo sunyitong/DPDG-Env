@@ -32,6 +32,8 @@ Please see the readme files in subfolders
 
 The raw data from our experiments contains sensitive facial information. To ensure the confidentiality of our participants, those interested in accessing the raw data must contact the authors directly and sign a Non-Disclosure Agreement (NDA). 
 
+Email: yitong.sun@network.rca.ac.uk
+
 ## Contribution and Feedback
 
 We welcome contributions and feedback on our code. If you find any issues or have suggestions, please open an issue or submit a pull request.
